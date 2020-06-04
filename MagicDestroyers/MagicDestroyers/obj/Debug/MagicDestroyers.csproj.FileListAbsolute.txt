@@ -1,0 +1,7 @@
+C:\Users\rajesh.pardasani\OneDrive - CentralSquare Technologies\Documents\Udemy\OOP With C#\Project\Solution\MagicDestroyers\MagicDestroyers\bin\Debug\MagicDestroyers.exe.config
+C:\Users\rajesh.pardasani\OneDrive - CentralSquare Technologies\Documents\Udemy\OOP With C#\Project\Solution\MagicDestroyers\MagicDestroyers\bin\Debug\MagicDestroyers.exe
+C:\Users\rajesh.pardasani\OneDrive - CentralSquare Technologies\Documents\Udemy\OOP With C#\Project\Solution\MagicDestroyers\MagicDestroyers\bin\Debug\MagicDestroyers.pdb
+C:\Users\rajesh.pardasani\OneDrive - CentralSquare Technologies\Documents\Udemy\OOP With C#\Project\Solution\MagicDestroyers\MagicDestroyers\obj\Debug\MagicDestroyers.csprojAssemblyReference.cache
+C:\Users\rajesh.pardasani\OneDrive - CentralSquare Technologies\Documents\Udemy\OOP With C#\Project\Solution\MagicDestroyers\MagicDestroyers\obj\Debug\MagicDestroyers.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.pardasani\OneDrive - CentralSquare Technologies\Documents\Udemy\OOP With C#\Project\Solution\MagicDestroyers\MagicDestroyers\obj\Debug\MagicDestroyers.exe
+C:\Users\rajesh.pardasani\OneDrive - CentralSquare Technologies\Documents\Udemy\OOP With C#\Project\Solution\MagicDestroyers\MagicDestroyers\obj\Debug\MagicDestroyers.pdb
